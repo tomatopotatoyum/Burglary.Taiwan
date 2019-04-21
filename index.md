@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 
 
@@ -64,7 +64,7 @@
 
 				<div align = "left"><p>在機車竊盜案中，可以看出發生數與破獲數都是新北市最高。</p>
 
-		</article>
+	
 
 		<hr>
 
@@ -102,7 +102,7 @@
 
 			<h2 style="color:midnightblue;text-align:left">六、強化預防犯罪宣導,加強個人自我保護措施</h2>
 
-        </header>
+        
 
 		<article>
 
@@ -112,6 +112,4 @@
 
 		
 
-    </body>
-
-</html>
+    
