@@ -28,7 +28,7 @@
 
                 
 
-                <h2 style="color:white;text-align:center">全台竊盜案的分布圖</h2>
+                <h2 style="color:midnightblue;text-align:center">全台竊盜案的分布圖</h2>
 
 				<div align = "left"><p>在全台的竊盜案分布圖中，可以清楚得知各縣市竊盜案分布的多寡，並可以發現新北市、高雄市，與台北市此三縣市的竊盜數名列前三名，<br>	
 
