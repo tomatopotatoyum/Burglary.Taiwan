@@ -16,7 +16,7 @@
 
     </head>
 
-    <body style="background: #EBEBFF">
+    <body style="background:#EBEBFF">
 
         <header>
 
