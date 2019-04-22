@@ -32,7 +32,7 @@
 				<div align = "center"><p>機車竊盜案</p>
 				<div align = "center"><iframe src="https://plotdb.io/v/chart/21096" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
 				<div align = "left"><p>在機車竊盜案中，可以看出發生數與破獲數都是新北市最高。</p>
-		</article>
+	
 		<hr>
 		<header>
             <h1 style="color:black;font-family:'Noto Serif TC', serif;text-align:center">防治方法</h1>
