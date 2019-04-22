@@ -56,10 +56,8 @@
 			<h2 style="color:midnightblue;text-align:left">六、強化預防犯罪宣導,加強個人自我保護措施</h2>
 			<div align = "left"><p>促成犯罪主因出於民眾本身缺乏警覺與防範意識，故有必要強化犯罪預防宣導，教導民眾及住戶採行必要之防範犯罪措施，鼓勵詳閱防竊手冊、
 			刊物及舉辦座談及演講作，充分發揮預防犯罪效果。<br></p>
-        </header>
+       
 		<article>
 		
         </article>
 		
-    </body>
-</html>
